@@ -1,14 +1,13 @@
 import sys
 import string
 import requests
-import lxml
+# install lxml on platform to get wepage data
 
 
 # Weather assistant
 # Gives weather report for the day
-high
-low
-chance_rain
+
+#  Weill have high, low, and chance_rain variables
 print('How can I help you? ')
 str1 = raw_input('')
 
